@@ -9,4 +9,9 @@ class Program
 
         Console.WriteLine("이 코드는 이제 제겁니다.");
     }
+
+    void Print(int a)
+    {
+        System.Console.WriteLine("충돌 테스트");
+    }
 }
