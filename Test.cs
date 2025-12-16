@@ -14,6 +14,7 @@ class Program
 
     void Print(int a)
     {
-        System.Console.WriteLine("충돌 테스트");
+        System.Console.WriteLine("알다가도 모르겠다.");
+        System.Console.WriteLine("이게왜 충돌이 안될까");
     }
 }
