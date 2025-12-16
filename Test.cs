@@ -9,7 +9,7 @@ class Program
 
         Console.WriteLine("이 코드는 이제 제겁니다.");
 
-        Console.WriteLind("불미스러운 교통사고");
+        Console.WriteLine("불미스러운 교통사고 내 과실은 없다 이말이야");
     }
 
     void Print(int a)
