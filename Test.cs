@@ -11,4 +11,9 @@ class Program
 
         Console.WriteLind("불미스러운 교통사고");
     }
+
+    void Print(int a)
+    {
+        System.Console.WriteLine("충돌 테스트");
+    }
 }
